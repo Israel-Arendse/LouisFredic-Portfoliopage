@@ -1,5 +1,5 @@
 body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial, sans-serif';
   }
   
   /* Navigation Bar */
@@ -218,7 +218,7 @@ body {
   .recommendation span {
     color: #7600bc;
     font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', 'Times', 'serif';
   }
   
   /* Scroll to Top Button */
@@ -284,7 +284,7 @@ body {
   /* Recommendation Form */
   
   input, textarea {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif'; 
     margin: 10px;  
     width:100%;
   }
